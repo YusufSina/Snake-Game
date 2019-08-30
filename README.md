@@ -1,3 +1,9 @@
+## Snake Game - Yılan Oyunu
+
+For playing this game, click file that named public and then open the index.html . Don't forget send feedback to me :)
+
+Oyunu oynayabilmek için public dosyası içindeki index.html açmanız yeterli. Geri bildirim vermeyi unutmayın :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
